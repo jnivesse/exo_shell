@@ -1,0 +1,1 @@
+$ nom 2=lorem_ipsum
